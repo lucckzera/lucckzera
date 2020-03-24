@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Currículo</title>
+    </head>
+ <body>
+  <header>
+     <table>
+     <tr>
+     <td> 
+     <hl><strong>LUCAS DAL COLLETTO AMADO</strong></hl>
+     <h2><strong>@lucckzera</strong></h2>
+     </td>
+     </tr>
+     <tr>|
+         <td>
+             <img src="joojcaralho.png"></img>
+         </td>
+     </tr>
+     </table>
+    </header>
+   <section>
+    <h1><strong><ul><li>Experiencias e Habilidades</li></ul></strong></h1>
+    <p><ul><li>Cursando Ciências da Computação</li></ul></p>
+    <p><ul><li>Nivel de Inglês Fluente - 3 Anos Cursando</li></ul></p>
+    <p><ul><li>Conhecimento Básico em Programação</li></ul></p>
+   </section>
+  <br>
+  <br>
+  <section>
+   <h2><strong><ul><li>Formação</li></ul></strong></h2>
+   <p><ul><li>Ensino Fundamental e Médio - Colégio Objetivo</li></ul></p> 
+  </section>
+  <br>
+  <br>
+  <section>
+    <h3><strong><ul><li>Interesses</li></ul></strong></h3>
+    <p><ul><li>Gosto de Jogos, mais especificamente do Gênero FPS</li></ul></p>
+    <p><ul><li>Gosto de Futebol, tanto jogar quanto acompanhar jogos</li></ul></p>
+   </section>
+   <br>
+   <br>
+   <section>
+    <h4><strong><ul><li>Contato</li></ul></strong></h4>
+    <p><ul><li>Email: lucckzera@gmail.com</li></ul></p>
+    <p><ul><li>Contato: (16) 996042434</li></ul></p>
+    <p><ul><li><a href="https://www.instagram.com/amado_lucas/?hl=pt-br" target="_blank">Instagram</a></li></ul></p>
+    <p><ul><li><a href="https://www.facebook.com/DalColletti" target="_blank">Facebook</a></li></ul></p>
+   </section>
+   <footer>
+ <p><q>Que a força esteja com você</q> <cite>Darth Vader</cite></p>
+ Lucas Dal Colletto Amado - Ultima alteração em <time datetime="2020-03-18">18/03/2020</time>
+   </footer>
+ </body>
+</html>
